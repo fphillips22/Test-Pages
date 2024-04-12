@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/test-pages/static/css/main.7b90409c.css",
+    "main.css": "/test-pages/static/css/main.82458e4e.css",
     "main.js": "/test-pages/static/js/main.d8617e46.js",
     "static/js/453.a6dcc33e.chunk.js": "/test-pages/static/js/453.a6dcc33e.chunk.js",
-    "static/media/Vines.svg": "/test-pages/static/media/Vines.2634f8c5afd7e77a8388.svg",
+    "static/media/trees-final-for-real-01.svg": "/test-pages/static/media/trees-final-for-real-01.57ffe3991cee286076a7.svg",
     "static/media/hrdc-logo.png": "/test-pages/static/media/hrdc-logo.e2c16b36a089b07cddd2.png",
     "index.html": "/test-pages/index.html",
-    "main.7b90409c.css.map": "/test-pages/static/css/main.7b90409c.css.map",
+    "main.82458e4e.css.map": "/test-pages/static/css/main.82458e4e.css.map",
     "main.d8617e46.js.map": "/test-pages/static/js/main.d8617e46.js.map",
     "453.a6dcc33e.chunk.js.map": "/test-pages/static/js/453.a6dcc33e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b90409c.css",
+    "static/css/main.82458e4e.css",
     "static/js/main.d8617e46.js"
   ]
 }
