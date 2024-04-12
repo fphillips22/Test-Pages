@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/test-pages/static/css/main.8965e15d.css",
+    "main.css": "/test-pages/static/css/main.7b90409c.css",
     "main.js": "/test-pages/static/js/main.d8617e46.js",
     "static/js/453.a6dcc33e.chunk.js": "/test-pages/static/js/453.a6dcc33e.chunk.js",
-    "static/media/trees-03-01.svg": "/test-pages/static/media/trees-03-01.bf6bf7231ca7e02a2a11.svg",
-    "static/media/hrdc-logo.svg": "/test-pages/static/media/hrdc-logo.22c3280bb31b7f5f2be3.svg",
+    "static/media/Vines.svg": "/test-pages/static/media/Vines.2634f8c5afd7e77a8388.svg",
+    "static/media/hrdc-logo.png": "/test-pages/static/media/hrdc-logo.e2c16b36a089b07cddd2.png",
     "index.html": "/test-pages/index.html",
-    "main.8965e15d.css.map": "/test-pages/static/css/main.8965e15d.css.map",
+    "main.7b90409c.css.map": "/test-pages/static/css/main.7b90409c.css.map",
     "main.d8617e46.js.map": "/test-pages/static/js/main.d8617e46.js.map",
     "453.a6dcc33e.chunk.js.map": "/test-pages/static/js/453.a6dcc33e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8965e15d.css",
+    "static/css/main.7b90409c.css",
     "static/js/main.d8617e46.js"
   ]
 }
